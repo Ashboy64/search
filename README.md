@@ -1,6 +1,6 @@
 # search
 
-Repository with implementations of search algorithms. Currently includes implementations for the following:
+Repository with implementations of graph search algorithms. Currently includes implementations for the following:
 
 - Uninformed Search:
   - DFS
